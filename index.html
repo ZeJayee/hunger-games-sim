@@ -771,6 +771,11 @@
 						summary.push(fates[fates.length-1]);
 						xKillsY(q,r);
 					}
+					else if (a === "vegetables") {
+						fates.push(allNames[r] + "didn't eat their vegetables.");
+						summary.puch(fates[fates.length-1]);
+						xDies(r);
+					}
 					else if (a === "hangs"){
 						fates.push(allNames[r] + " hangs " + pro[r] + "self after being friendzoned by " + allNames[q] + ".");
 						summary.push(fates[fates.length-1]);
