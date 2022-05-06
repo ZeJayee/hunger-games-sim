@@ -1,17 +1,17 @@
 * {
 	color:white;
-	font-family: arial;
+	font-family: Helvitica;
 }
 
 html, body {
-	background-color:black;
+	background-color: #2e2e2e;
 	overflow-x:hidden;
 }
 
 input[type=text] {
 	border: none;
-	border-bottom: 2px solid #ffa705;
-	background-color: #7f7f7f;
+	border-bottom: 2px solid red;
+	background-color: #737373;
 	color: white;
 	padding: 5px;
 }
@@ -29,18 +29,6 @@ select, option {
 	transition: all 0s;
 	cursor: pointer;
 	margin: 5px;
-}
-
-#background {
-	background-image:url("http://bestscreenwallpaper.pro/wp-content/uploads/2015/11/Logo-The-Hunger-Games-Mockingjay-Part-2.jpg");
-	-webkit-background-size:cover;
-	-moz-background-size:cover;
-	background-size:cover;
-	width:100%;
-	height:100%;
-	top:0;
-	left:0;
-	position:absolute;
 }
 
 #names, #stats, #day, #corn, #deaths, #winner, #summary {
@@ -103,7 +91,7 @@ select, option {
 
 .header {
 	text-align: center;
-	font-family: arial;
+	font-family: sans-serif;
 	background-color: #f4511e;
 	color: white;
 	padding:15px;
@@ -113,7 +101,7 @@ select, option {
 
 .footer {
 	text-align: center;
-	font-family: arial;
+	font-family: sans-serif;
 	background-color: #ffa705;
 	color: white;
 	padding: 15px;
