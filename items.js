@@ -46,7 +46,6 @@ var itemsToFind =
 "paintball",
 "used Band-Aid",
 "clean water",
-"pack of condoms",
 "tent",
 "biology textbook",
 "bucket of KFC",
@@ -98,7 +97,6 @@ var causeAndEffect =
 "eats bleach gummy bottle",
 "used Band-Aid",
 "random bandaid",
-"pack of condoms",
 "safe dating",
 "tent",
 "constructs a tent",
@@ -179,7 +177,7 @@ var shelter =
 "couch",
 "sleeping bag",
 "queen-sized bed with a memory foam mattress and furnished headrest",
-"brothel"];
+];
 
 var cornucopia =
 ["run",
@@ -193,7 +191,6 @@ var sponsor =
 "paintball",
 "used Band-Aid",
 "clean water",
-"pack of condoms",
 "tent",
 "biology textbook",
 "bucket of KFC",
@@ -217,14 +214,13 @@ var sponsor =
 var misc =
 ["wanders around",
 "picks flowers",
-"heils Hitler",
 "hails Hortler",
 "talks to",
 "drops a rant against",
 "levels up",
 "sings us a song",
 "is the sheriff",
-"plays some pranks (GONE WRONG GONE SEXUAL)",
+"plays some pranks (GONE WRONG GONE VERY WRONG)",
 "realizes maverick isn't all yellow",
 "loses the game",
 "cries",
