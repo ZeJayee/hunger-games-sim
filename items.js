@@ -8,7 +8,8 @@ var weapons =
 "fidget spinner",
 "assault rifle",
 "frisbee",
-"tank"];
+"tank",
+"really sharp roll of toilet paper"];
 
 var melee =
 ["sword",
@@ -66,7 +67,8 @@ var itemsToFind =
 "chocolate-covered cotton",
 "stick of Old Spice deodorant",
 "freeze ray",
-"findings"];
+"findings",
+"sock puppet that looks like a mash-up of a dog and a porcupine"];
 
 var itemsThatGivePoints = [
 "fruit tree",
@@ -177,6 +179,7 @@ var shelter =
 "couch",
 "sleeping bag",
 "queen-sized bed with a memory foam mattress and furnished headrest",
+"pile of wood assembled into a small house"
 ];
 
 var cornucopia =
@@ -209,7 +212,8 @@ var sponsor =
 "indescribable object",
 "chocolate-covered cotton",
 "stick of Old Spice deodorant",
-"freeze ray"];
+"freeze ray",
+"latest Ariana Grande album"];
 
 var misc =
 ["wanders around",
@@ -256,7 +260,8 @@ var misc =
 "finds Bishan Agrawal",
 "barrel rolls",
 "finds Dory",
-"finds Nemo"];
+"finds Nemo",
+"sits still and wonders how they got here"];
 
 var injury =
 ["gets a cold",
