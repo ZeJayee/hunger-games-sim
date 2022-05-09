@@ -165,7 +165,8 @@ var killCauseAndEffect =
 "frisbee",
 "decapitates",
 "tank",
-"murders"];
+"murders",
+"dances to death"];
 
 var shelter =
 ["cave",
